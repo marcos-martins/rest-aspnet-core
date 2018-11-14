@@ -1,0 +1,14 @@
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\bin\Debug\netcoreapp2.1\RestWebApi.deps.json
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\bin\Debug\netcoreapp2.1\RestWebApi.runtimeconfig.json
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\bin\Debug\netcoreapp2.1\RestWebApi.runtimeconfig.dev.json
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\bin\Debug\netcoreapp2.1\RestWebApi.dll
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\bin\Debug\netcoreapp2.1\RestWebApi.pdb
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.csprojAssemblyReference.cache
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.csproj.CoreCompileInputs.cache
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.RazorAssemblyInfo.cache
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.RazorAssemblyInfo.cs
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.AssemblyInfoInputs.cache
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.AssemblyInfo.cs
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.RazorTargetAssemblyInfo.cache
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.dll
+C:\Estudo\NetCore\rest-aspnet-core\RestWebApi\RestWebApi\obj\Debug\netcoreapp2.1\RestWebApi.pdb
