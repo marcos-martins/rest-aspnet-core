@@ -13,6 +13,7 @@ namespace RestWebApi.Controllers
         [HttpGet("{firstNUmber}/{secondNumber}")]
         public ActionResult<int> Get(int firstNUmber, int secondNumber)
         {
+
             return firstNUmber+ secondNumber;
         }
     }
